@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </div>
+</br>
 <div align="center">
   <h5 align="center">Contact & Blog</h5>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
