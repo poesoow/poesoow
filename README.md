@@ -1,8 +1,8 @@
 <div align="center">
-  Hey, I'm Wooseop
+  Hey, I'm  <span style="color: #646CFF"><b>Wooseop</b></span>
 </div>
 <div align="center">
-  and I'm studying for Front-end Development!
+  and I'm studying for <b>Front-end Development!</b>
 </div>
 </br>
 <h5 align="center">Skills & Tools</h5>
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
 </div>
 </br>
 <div align="center">
@@ -31,21 +33,17 @@
   <!-- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> -->
   <a href="https://velog.io/@ws71144612" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
+</br>
+
+<!-- <h4>
+  I’m currently working on ...
+</h4>
+<div></div> -->
 
 <div align="center">
+  </br>
 
   ![WooSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=poesoow&show_icons=true&theme=cobalt)
 
 </div>
 </br>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
