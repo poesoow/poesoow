@@ -1,5 +1,5 @@
 <div align="center">
-  Hey, I'm Mina
+  Hey, I'm Wooseop
 </div>
 <div align="center">
   and I'm currently studying for Front-end Development!
@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
-  git
-  
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>  
 </div>
 <div align="center">
   <p>Contact</p>
