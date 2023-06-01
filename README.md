@@ -9,7 +9,7 @@
 <div align="center">
   <p>Language, Frame work, etc...</p>
   <a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/nuxtdotjs-00DC82?style=flat-square&logo=nuxt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
