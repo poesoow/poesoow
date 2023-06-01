@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  ![WooSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=peosoow&show_icons=true&theme=cobalt)
+  ![WooSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=poesoow&show_icons=true&theme=cobalt)
 
 </div>
 
